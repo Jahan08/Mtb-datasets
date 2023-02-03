@@ -19,7 +19,7 @@ For this work we have considered 12 fingerprints:
 | ------------- | -------------               |-------------|--------------                                                                        |
 |        1      |       CDK                   |  1024       |  Fingerprint of length 1024 and search depth of 8                                    |             
 |        2      | CDK Extended                |  1024       |  Fingerprint of length 1024 bits describing ring features                            |
-|        3      | CDK graph only|             |  1024       |  A special version that considers only the connectivity and not bond order           |          
+|        3      | CDK graph only              |  1024       |  A special version that considers only the connectivity and not bond order           |          
 |        4      |  E-State                    |  79         |  Electrotopological state atom types                                                 |             
 |        5      |  MACCS                      |  166        |  Binary representation of chemical features defined by MACCS keys                    |             
 |        6      |   PubChem                   |  881        |  Binary representation of substructures defined by PubChem                           |             
