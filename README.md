@@ -55,3 +55,10 @@ respectively, as summarized in Table 2.
 |        10     | Klekota-Roth count          |             |               
 |        11     | 2D atom Pairs               |             |               
 |        12     |  2D atomPairs count         |             |      
+
+## Data Spliting
+In the construction of prediction models, the possibility of bias may arise from a single data split. In order to address this problem, Puzyn et al. suggested that prediction models should be constructed from N independent data splits. Thus, this study employs independent data splits using a split ratio of 70/30
+where 70% of the entire data set was used as the internal set and the remaining 30% served as the external set. The final prediction performance was obtained by calculating the mean and standard deviation values for statistical parameters from these independent data splits.
+
+## Multivariate analysis
+Regression models afford the prediction of a continuous response variable (e.g. pIC50) as a function of predictors (e.g. fingerprint descriptors) via the use of learning algorithms. Random forest (RF) is well-known as an ensemble machine learning technique that is capable of handling both classication and regression tasks by making use of multiple decision tree learners to collectively predict the value of a target observation.
