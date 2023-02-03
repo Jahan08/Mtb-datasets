@@ -48,7 +48,7 @@ respectively, as summarized in Table 2.
 |        3      | CDK graph only              |             |          
 |        4      |  E-State                    |             |              
 |        5      |  MACCS                      |             |              
-|        6      |   PubChem                   |             |               
+|        6      |   PubChem                   |  132        |               
 |        7      |  SubStructure               |             |               
 |        8      | Substructure Count          |             |             
 |        9      | Klekota-Roth                |             |              
