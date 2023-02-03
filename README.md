@@ -62,3 +62,12 @@ where 70% of the entire data set was used as the internal set and the remaining 
 
 ## Multivariate analysis
 Regression models afford the prediction of a continuous response variable (e.g. pIC50) as a function of predictors (e.g. fingerprint descriptors) via the use of learning algorithms. Random forest (RF) is well-known as an ensemble machine learning technique that is capable of handling both classification and regression tasks by making use of multiple decision tree learners to collectively predict the value of a target observation.
+
+
+## Easy navigation of the folders
+
+For this work we have considered 12 fingerprints:
+
+ |Folder Name            |  Description    |
+| ------------- | ----------------- |
+|||
