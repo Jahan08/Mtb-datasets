@@ -1,0 +1,14 @@
+
+
+bioactivity_data_Mtb_H37Rv_raw_data.csv has all bioactive data
+
+bioactivity_data_H37Rv_MIC.csv has only MIC data
+
+bioactivity_preprocessed_data_Mtb_H37Rv_MIC_nM .csv has only nM MIC data 
+
+Mtb_H37Rv_MIC_nm_MolDes.csv -> in this file we consider MIC <= 1000 nM active and rest inactive, which can be changed later
+
+This developed after removing NAN data and merge the duplicate compounds with Lipniski's molecular descriptors
+
+
+
